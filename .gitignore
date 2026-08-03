@@ -1,0 +1,11 @@
+# Data files 
+data/raw/
+*.csv
+
+# Python environment & cache
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.env
+# Power BI temporary files
+*.tmp
